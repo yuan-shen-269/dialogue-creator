@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dialogue-creator/static/css/main.4f6a31f7.chunk.css",
+    "main.js": "/dialogue-creator/static/js/main.caa21575.chunk.js",
+    "main.js.map": "/dialogue-creator/static/js/main.caa21575.chunk.js.map",
+    "runtime-main.js": "/dialogue-creator/static/js/runtime-main.9b591ec4.js",
+    "runtime-main.js.map": "/dialogue-creator/static/js/runtime-main.9b591ec4.js.map",
+    "static/css/2.658248ec.chunk.css": "/dialogue-creator/static/css/2.658248ec.chunk.css",
+    "static/js/2.a3c358fa.chunk.js": "/dialogue-creator/static/js/2.a3c358fa.chunk.js",
+    "static/js/2.a3c358fa.chunk.js.map": "/dialogue-creator/static/js/2.a3c358fa.chunk.js.map",
+    "static/js/3.0675fa90.chunk.js": "/dialogue-creator/static/js/3.0675fa90.chunk.js",
+    "static/js/3.0675fa90.chunk.js.map": "/dialogue-creator/static/js/3.0675fa90.chunk.js.map",
+    "index.html": "/dialogue-creator/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/dialogue-creator/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.4f6a31f7.chunk.css.map": "/dialogue-creator/static/css/main.4f6a31f7.chunk.css.map",
+    "static/js/2.a3c358fa.chunk.js.LICENSE.txt": "/dialogue-creator/static/js/2.a3c358fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b591ec4.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.a3c358fa.chunk.js",
+    "static/css/main.4f6a31f7.chunk.css",
+    "static/js/main.caa21575.chunk.js"
+  ]
+}
